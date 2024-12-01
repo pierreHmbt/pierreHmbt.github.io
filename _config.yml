@@ -22,11 +22,11 @@ repository               : "pierreHmbt/pierreHmbt.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Pierre Humbert"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Paris"
+  employer         : "Sorbonne University"
   uri              : # URL
   email            : "none@example.org" 
 
