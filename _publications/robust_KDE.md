@@ -2,7 +2,7 @@
 title: "Robust Kernel Density Estimation with Median-of-Means principle"
 collection: publications
 link: https://proceedings.mlr.press/v162/humbert22a/humbert22a.pdf
-repository: '[code](https://github.com/academicpages/academicpages.github.io)'
+repository: 'https://github.com/lminvielle/mom-kde'
 permalink: /publication/robust-density
 date: 2022-7-18
 excerpt: ''
