@@ -1,33 +1,29 @@
 ---
 layout: archive
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-<h2>Journals</h2>
-  {% for post in site.publications reversed %} 
-    {% if post.pubtype == 'journal' %} 
-      {% include archive-single.html %} 
-    {% endif %}
-  {% endfor %}
+{% include base_path %}
 
-<h2>Conferences</h2>
-  {% for post in site.publications reversed %} 
-    {% if post.pubtype == 'conference' %} 
-      {% include archive-single.html %} 
-    {% endif %}
+<!-- New style rendering if publication categories are defined -->
+{% if site.publication_category %}
+  {% for category in site.publication_category  %}
+    {% assign title_shown = false %}
+    {% for post in site.publications reversed %}
+      {% if post.category != category[0] %}
+        {% continue %}
+      {% endif %}
+      {% unless title_shown %}
+        <h2>{{ category[1].title }}</h2><hr />
+        {% assign title_shown = true %}
+      {% endunless %}
+      {% include archive-single.html %}
+    {% endfor %}
   {% endfor %}
-
-<h2>Preprints</h2>
-  {% for post in site.publications reversed %} 
-    {% if post.pubtype == 'preprint' %} 
-      {% include archive-single.html %} 
-    {% endif %}
+{% else %}
+  {% for post in site.publications reversed %}
+    {% include archive-single.html %}
   {% endfor %}
-
-<h2>Thesis</h2>
-  {% for post in site.publications reversed %} 
-    {% if post.pubtype == 'thesis' %} 
-      {% include archive-single.html %} 
-    {% endif %}
-  {% endfor %}
+{% endif %}
