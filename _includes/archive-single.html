@@ -37,7 +37,6 @@
     {% elsif post.collection == 'publications' %}
       <p class="archive__item-excerpt" itemprop="description">{{ post.author }}. <i>{{ post.venue }}</i>.</p>
     {% endif %}
-
     {% if post.repository %}
     <p class="archive__item-excerpt" itemprop="description"><a href="{{ post.repository }}">Link to code</a></p>
     {% endif %}
