@@ -1,7 +1,7 @@
 ---
 title: "One-Shot Federated Conformal Prediction"
 collection: publications
-link: https://hal.science/hal-03981605v1
+link: https://proceedings.mlr.press/v202/humbert23a/humbert23a.pdf
 permalink: /publication/federated-cp
 date: 2023-7-25
 excerpt: ''
