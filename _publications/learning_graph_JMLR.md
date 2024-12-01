@@ -2,7 +2,7 @@
 title: "Learning Laplacian Matrix from Graph Signals with Sparse Spectral Representation"
 collection: publications
 link: https://www.jmlr.org/papers/volume22/19-944/19-944.pdf
-repository: https://github.com/pierreHmbt/GL-3SR
+repository: 'https://github.com/pierreHmbt/GL-3SR'
 permalink: /publication/graph-learning-journal
 date: 2021-10-1
 excerpt: ''
