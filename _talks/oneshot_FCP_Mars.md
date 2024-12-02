@@ -1,6 +1,6 @@
 ---
 title: "One-shot federated conformal prediction"
-collection: ""
+collection: talks
 type: "Talk"
 link: ""
 permalink: /talks/2024-09-01-talk-2
