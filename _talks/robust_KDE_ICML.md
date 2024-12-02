@@ -1,5 +1,5 @@
 ---
-title: "Conference Proceeding talk 3 on Relevant Topic in Your Field"
+title: "Robust kernel density estimation with median-of-means principle"
 collection: talks
 type: "Conference proceedings talk"
 link: ""
