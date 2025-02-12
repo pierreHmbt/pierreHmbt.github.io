@@ -6,6 +6,6 @@ permalink: /publication/subsamp-tensor-icassp
 date: 2021-11-05
 excerpt: ''
 pubtype: 'conference'
-venue: 'EMBC 2021'
+venue: 'ICASSP 2021'
 author: 'T. Gnassounou, P. Humbert, L. Oudre'
 ---
