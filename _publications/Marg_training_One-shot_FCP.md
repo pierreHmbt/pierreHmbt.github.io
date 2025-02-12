@@ -3,6 +3,7 @@ title: "Marginal and Training-Conditional Guarantees in One-Shot Federated Confo
 collection: publications
 link: https://hal.science/hal-04579882v1
 permalink: /publication/federated-cp-journal
+repository: 'https://github.com/pierreHmbt/FedCP-QQ'
 date: 2024-5-25
 excerpt: ''
 pubtype: 'preprint'
