@@ -5,7 +5,7 @@ type: "Teacher"
 permalink: 
 venue: "APHP and Sorbonne Université"
 startdate: 2024
-enddate: 2024
+enddate: 2025
 location: "Paris, France"
 ---
 
