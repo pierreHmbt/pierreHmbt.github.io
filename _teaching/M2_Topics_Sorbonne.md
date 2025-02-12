@@ -9,6 +9,4 @@ enddate: 2025
 location: "Paris, France"
 ---
 
-Teacher on conformal prediction for "M2 Topics in modern machine learning" at Sorbonne Université.
-
-https://m2stat.sorbonne-universite.fr/enseignement/coursspecial/
+Teacher on conformal prediction for [M2 Topics in modern machine learning](https://m2stat.sorbonne-universite.fr/enseignement/coursspecial/) at Sorbonne Université.
