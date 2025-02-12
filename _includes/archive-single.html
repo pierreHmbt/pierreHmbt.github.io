@@ -33,7 +33,7 @@
     {% endif %}
   
     {% if post.collection == 'publications' and post.pubtype == 'preprint' and post.date %}
-      <p class="archive__item-excerpt" itemprop="description">{{ post.author }}. {{ post.date | default: "1900-01-01" | date: "%B %Y" }} </p>
+      <p class="archive__item-excerpt" itemprop="description">{{ post.author }}. {{ post.date | default: "1900-01-01" | date: "%B %Y" }}. <br/> <a href="{{ post.repository }}">Link to code</a> </p>
     {% elsif post.collection == 'publications' and post.repository %}
       <p class="archive__item-excerpt" itemprop="description">{{ post.author }}. <i>{{ post.venue }}</i>. <br/> <a href="{{ post.repository }}">Link to code</a> </p>
     {% elsif post.collection == 'publications' %}
