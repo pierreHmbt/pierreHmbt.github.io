@@ -4,9 +4,11 @@ collection: teaching
 type: "Teacher"
 permalink: https://m2stat.sorbonne-universite.fr/enseignement/coursspecial/
 venue: "Sorbonne Université"
-startdate: 2025
+startdate: 2024
 enddate: 2025
 location: "Paris, France"
 ---
 
 Teacher on conformal prediction for "M2 Topics in modern machine learning" at Sorbonne Université.
+
+https://m2stat.sorbonne-universite.fr/enseignement/coursspecial/
