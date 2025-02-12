@@ -8,5 +8,5 @@ date: 2021-10-1
 excerpt: ''
 pubtype: 'journal'
 venue: 'Journal of Machine Learning Research 22 (JMLR) 2021'
-author: 'P. Humbert*, B. Le Bars*, L. Oudre,  A. Kalogeratos, and N. Vayatis'
+author: 'P. Humbert, B. Le Bars, L. Oudre,  A. Kalogeratos, and N. Vayatis'
 ---
