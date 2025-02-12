@@ -20,5 +20,5 @@ You can learn more about me here [CV](http://pierreHmbt.github.io/files/cv_humbe
 * Cross-validation, robust statistics
 * Signal processing
 * Graph and tensor learning
-* Applications to neuroscience
+* Applications to medicine and neuroscience
 
