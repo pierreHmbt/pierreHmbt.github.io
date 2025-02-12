@@ -4,8 +4,8 @@ collection: teaching
 type: "Teacher"
 permalink: https://m2stat.sorbonne-universite.fr/enseignement/coursspecial/
 venue: "Sorbonne Université"
-startdate: 2025
-enddate:
+startdate: 2024
+enddate: 2025
 location: "Paris, France"
 ---
 
