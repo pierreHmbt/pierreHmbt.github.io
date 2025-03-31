@@ -23,3 +23,5 @@ You can learn more about me here [CV](http://pierreHmbt.github.io/files/cv_humbe
 * Graph and tensor learning
 * Applications to medicine and neuroscience
 
+## News
+I am invited by [László Györfi](http://www.szit.bme.hu/~gyorfi/) to the [Budapest University of Technology and Economics](https://www.bme.hu/en) to work with him on conformal prediction and distribution-free multivariate regression.
