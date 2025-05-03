@@ -24,4 +24,6 @@ You can learn more about me here [CV](http://pierreHmbt.github.io/files/cv_humbe
 * Applications to medicine and neuroscience
 
 ## News
-May 2025 - I am invited by [László Györfi](http://www.szit.bme.hu/~gyorfi/indexen.html) from the [Budapest University of Technology and Economics](https://www.bme.hu/en) to work with him on conformal prediction and nonparametric multivariate regression!
+
+May 2025 - [László Györfi](http://www.szit.bme.hu/~gyorfi/indexen.html) invites me to the [Alfréd Rényi Institute of Mathematics](https://renyi.hu/en) in Budapest to work with him on conformal prediction and nonparametric multivariate regression!
+
