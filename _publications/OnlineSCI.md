@@ -2,7 +2,7 @@
 title: "Online selective conformal inference: adaptive scores, convergence rate and optimality"
 collection: publications
 link: https://arxiv.org/abs/2508.10336
-repository: ''
+repository:
 permalink: /publication/online-sci
 date: 2025-08-14
 excerpt: ''
