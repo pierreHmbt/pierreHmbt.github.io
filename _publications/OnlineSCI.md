@@ -4,7 +4,7 @@ collection: publications
 link: https://arxiv.org/abs/2508.10336
 repository: ''
 permalink: /publication/online-sci
-date: 2025-14-08
+date: 2025-08-14
 excerpt: ''
 pubtype: 'preprint'
 venue: ''
