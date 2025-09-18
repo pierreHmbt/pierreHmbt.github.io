@@ -6,7 +6,7 @@ repository: 'https://github.com/pierreHmbt/transductive-conformal-inference-for-
 permalink: /publication/transduct_CP_ranking
 date: 2025-01-01
 excerpt: ''
-pubtype: 'publications'
+pubtype: 'conference'
 venue: 'Neurips 2025'
 author: 'J-B. Fermanian, P. Humbert, G. Blanchard'
 ---
