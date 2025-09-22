@@ -7,6 +7,6 @@ permalink: /publication/transduct_CP_ranking
 date: 2025-09-18
 excerpt: ''
 pubtype: 'conference'
-venue: 'Neurips 2025'
+venue: 'NeurIPS 2025'
 author: 'J-B. Fermanian, P. Humbert, G. Blanchard'
 ---
