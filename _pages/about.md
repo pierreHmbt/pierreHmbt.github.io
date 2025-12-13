@@ -25,7 +25,7 @@ You can learn more about me here [CV](http://pierreHmbt.github.io/files/cv_humbe
 
 ## News
 
-* PhD position on Conformal Prediction and Physics-Informed ML [here](https://batistelb.github.io/files/PhD_Position_CP_and_PIML.pdf).
+* ~~PhD position on Conformal Prediction and Physics-Informed ML [here](https://batistelb.github.io/files/PhD_Position_CP_and_PIML.pdf).~~
 
 * May 2025 - [László Györfi](http://www.szit.bme.hu/~gyorfi/indexen.html) invites me to the [Alfréd Rényi Institute of Mathematics](https://renyi.hu/en) in Budapest to work with him on conformal prediction and nonparametric multivariate regression!
 
