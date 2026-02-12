@@ -8,5 +8,5 @@ date: 2026-02-05
 excerpt: ''
 pubtype: 'preprint'
 venue: ''
-author: 'L. Györfi, P. Humbert, and B. Le Bars
+author: 'L. Györfi, P. Humbert, and B. Le Bars'
 ---
