@@ -1,7 +1,7 @@
 ---
 title: "Transductive conformal inference for full ranking"
 collection: publications
-link: https://arxiv.org/pdf/2501.11384
+link: https://openreview.net/pdf?id=3Bxn5XSgrO
 repository: 'https://github.com/pierreHmbt/transductive-conformal-inference-for-ranking'
 permalink: /publication/transduct_CP_ranking
 date: 2025-09-18
