@@ -1,7 +1,7 @@
 ---
 title: "Metric space valued Fréchet regression"
 collection: publications
-link: https://hal.science/hal-05493499v1
+link: https://arxiv.org/abs/2602.05225
 repository:
 permalink: /publication/frechet_mean
 date: 2026-02-05
