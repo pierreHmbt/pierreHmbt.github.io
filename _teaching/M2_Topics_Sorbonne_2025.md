@@ -1,5 +1,5 @@
 ---
-title: "M2 Topics in modern machine learning (part on conformal prediction)"
+title: "M2 Modern topics in machine learning (part on conformal prediction)"
 collection: teaching
 type: "Teacher"
 permalink: https://m2stat.sorbonne-universite.fr/enseignement/coursspecial/
