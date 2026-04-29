@@ -12,3 +12,5 @@ I have the pleasure to work with the following people:
 
 ## Master students
 - 2026: [Félix Laplante](https://felixlaplante0.github.io/) (with [Christophe Ambroise](https://ambroise.cloud/))
+- 2023: [Lucas Zoroddu](https://fr.linkedin.com/in/lucas-zoroddu-4801b81b0) (with [Laurent Oudre](https://www.laurentoudre.fr/))
+- 2020: [Théo Gnassounou](https://tgnassou.github.io/) (with [Laurent Oudre](https://www.laurentoudre.fr/))
