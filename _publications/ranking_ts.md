@@ -1,7 +1,7 @@
 ---
 title: "Ranking Time Series using a Time Warping Ideal Point Model"
 collection: publications
-link: https://www.laurentoudre.fr/publis/ICML2026.pdf
+link: https://openreview.net/pdf?id=5wMBxVaTbC
 permalink: /publication/ranking_time_series
 date: 2026-7-25
 excerpt: ''
